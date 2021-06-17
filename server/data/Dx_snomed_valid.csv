@@ -1,0 +1,28 @@
+Dx;SNOMED CT Code;Abbreviation
+1st degree av block;270492004;IAVB
+atrial fibrillation;164889003;AF
+atrial flutter;164890007;AFL
+bradycardia;426627000;Brady
+complete right bundle branch block;713427006;CRBBB
+incomplete right bundle branch block;713426002;IRBBB
+left anterior fascicular block;445118002;LAnFB
+left axis deviation;39732003;LAD
+left bundle branch block;164909002;LBBB
+low qrs voltages;251146004;LQRSV
+nonspecific intraventricular conduction disorder;698252002;NSIVCB
+pacing rhythm;10370003;PR
+premature atrial contraction;284470004;PAC
+premature ventricular contractions;427172004;PVC
+prolonged pr interval;164947007;LPR
+prolonged qt interval;111975006;LQT
+qwave abnormal;164917005;QAb
+right axis deviation;47665007;RAD
+right bundle branch block;59118001;RBBB
+sinus arrhythmia;427393009;SA
+sinus bradycardia;426177001;SB
+sinus rhythm;426783006;NSR
+sinus tachycardia;427084000;STach
+supraventricular premature beats;63593006;SVPB
+t wave abnormal;164934002;TAb
+t wave inversion;59931005;TInv
+ventricular premature beats;17338001;VPB
