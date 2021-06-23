@@ -1,2 +1,8 @@
 # DSS_12Lead_ECG_detection
 Implementation of a DSS based on a trained Neural Network. The repository contains Colab notebooks for the Deep Learning task  and two additional folders containing the React frontend and the Flask backend.
+
+The first step to install the DSS in the computer will be to download the corresponding files in GitHub.  Before continuing with the installation, the user needs to make sure that Python 3.8.9 and Node JS are installed.  
+
+Once installed, we will divide the steps into two parts:  the front-end and the back-end. In the front-end, the user will need to get into the `./front/` route using the `cd` command.Then, once there, run `npm install`, which will create the node modules folder with all the required dependencies to run the front-end.  The process will take time because it is a heavy download.  Once done, you can just run the `npm start` command in the same route to start the front-end in the browser in the address http://localhost:3000/.
+
+The back-end installation will be done using a requirement.txt file.  That will install all the python dependencies directly by running `pip install -r requirements.txt`, which is a folder that has all the required libraries along with their correspondent versions.  If the installation  of  all  packages  is  not  completed  for  some  reason  (like  the  Operative  System version), the user will have to debug the errors and solve them one by one.  To check if the server  is  working,  execute  inside  the `./server/` route  the  command `python app.py`.   In case everything is working correctly, the server will be launched at 127.0.0.1:5000.
